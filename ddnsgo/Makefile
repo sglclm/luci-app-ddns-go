@@ -10,7 +10,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=ddnsgo
-PKG_VERSION:=4.4.2
+PKG_VERSION:=4.5.3
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
